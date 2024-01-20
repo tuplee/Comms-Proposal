@@ -8,5 +8,3 @@ Traditional IT security evolved from the idea of a castle behind a moat. Getting
 
 Hunting For Threats Before Threat Actors
 With our proposed defensive MDR solution, there is another half of the coin. By proactively hunting threats through penetration testing, our firm will provide meaningful action items that will further strengthen the security of the City's networks and devices up to and beyond the scope of the EDR implementation. After briefing with City-assigned security professionals, our firm can provide vulnerability testing and reporting services that follow [insert standard reference here] specifications. Regular reporting on a weekly schedule is standard as well as access to functional dashboards that can provide realtime alerts and notifications to City IT professionals.
-
-Here are some changes look at the changes omg so many changes.
