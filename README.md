@@ -17,7 +17,7 @@ Aloha
   https://www.mybib.com/tools/ieee-citation-generator
   
   TO DO:
-  * Make Intro Section a bit more accessible to casual readers
+  * /tuplee will handle this/ Make Intro Section a bit more accessible to casual readers
   * Review Project Details section with James - are we detailed enough or are we too high level with it still?
   * Develop Schedule Section from Project Details section
   * Use Scheduling Section to build Gantt Chart
