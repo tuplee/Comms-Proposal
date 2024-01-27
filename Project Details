@@ -4,7 +4,7 @@ What will we need from the customer to move forward?
 
 How is the project going to be managed?
 
-What is the very first thing that needs to be done? The second? The third? After that?
+**What is the very first thing that needs to be done? The second? The third? After that?**
 The first order of business is to meet with City officials and debrief on the current security posture of the organization. Once City officials have outlined their posture, the system will be assessed via vulnerability scanning to establish what vulnerabilities can be mitigated with the EDR solution and what vulnerabilities that need to be addressed outside the EDR solution.
 Once these vulnerabilities have been categorized, the EDR solution will be implemented alongside an employee training program that educates end-device users on the role they play securing the networks that they use. Vulnerabilities not resolved with the EDR solution will be addressed with City officials to clarify responsibilities and scope in order to further strengthen the security posture of the City. 
 After implementation, the EDR solution will develop its managed service by first developing the baseline of normal network behavior for end-devices, systems, and cloud applications. Telemetry from this data will be bundled into a dashboard that will leverage security platforms already in place in City infrastructure, creating a real-time analytics dashboard that can be accessed by City security officials and planners.
