@@ -4,7 +4,7 @@ How will the project proceed?
 
 What will we need from the customer to move forward?
 
-We will need to work with City officials to conduct an infastructure inventory. This will clearly define the scope of our EDR solution. During this we will gather any existing documentation available, and create topology maps to fully understand the overall network structure. We will also collaborate with key personnel to define which assets and components will need to be included. 
+We will need to work with City's existing IT Team to conduct an infastructure inventory. This will clearly define the scope of our EDR solution. During this we will gather any existing documentation available, and create topology maps to fully understand the overall network structure. We will also collaborate with key personnel to define which assets and components will need to be included. 
 
 How is the project going to be managed?
 
@@ -35,6 +35,14 @@ David Smith (Security Engineer) – 6 years experience in offensive penetration 
 
 
 Specifically how is progress going to be measured and reported?
+
+We will provide regular status reports and updates on the progress of the MDR solution that will include key milestones achieved and tasks that have been completed. We will also define and track key performance indicators. 
+A few of these indicators can be the:
+	Number of security incidents detected and resolved
+	Average Time to detect and respond to any incidents
+	System uptime and availability
+
+Our Pentesting team will conduct assessments of the security posture after the implementation has been completed. The results of these assesments will be shared and will highlight the overall improvements achieved by our solution. We will communicate with the City for any feedback regarding their satisfaction with our implementation and use it to make continuous improvements. 
 
 How exactly will findings be documented throughout the project?
 
