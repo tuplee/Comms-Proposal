@@ -17,8 +17,7 @@ Aloha
   https://www.mybib.com/tools/ieee-citation-generator
   
   TO DO:
-  * /tuplee will handle this/ Make Intro Section a bit more accessible to casual readers
-  * Review Project Details section with James - are we detailed enough or are we too high level with it still?
+  * /To be discussed Jan30 in class/ Review Project Details section with James - paragraphs are too long? references are right?
   * Develop Schedule Section from Project Details section
   * Use Scheduling Section to build Gantt Chart
   * Develop budget outline (see LearningHub Week 5 Proposal-schedules-budgets.ppt)
