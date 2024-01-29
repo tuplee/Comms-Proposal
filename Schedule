@@ -1,1 +1,22 @@
-Reference Project Details and develop schedule that can be used to further develop a Gantt Chart
+PHASE 1
+1) Debrief with City officials to understand current security posture and define scope of responsibility
+2) Develop network topology diagrams (what other planning materials can be developed at this stage?)
+
+PHASE 2
+1) Active vulnerability scanning within scope
+2) Categorize vulerabilities into EDR and non-EDR problems
+3) Create document outlining vulnerability scan finds and next steps (don't actually make a real one, this is just something that should be included in the hypothetical reporting strategy)
+
+PHASE 3 (Concurrent with PHASE 4)
+1) Implement EDR solution (this step needs to be more specific than it's current general stance)
+2) Develop baseline network behaviour patterns
+3) Develop data telemetry pipelines to reporting and dashboard functions
+
+PHASE 4 (Concurrent with PHASE 3)
+1) Create internet-accessible dashboard that leverages EDR telemtry
+
+PHASE 5 (Concurrent with PHASE 3&4)
+1) Using 2.3, address vulnerabilities not solved by an EDR solution
+
+PHASE 6
+1) Red-Teaming phase (what are the main steps involved here, don't let this phase take up the majority of the schedule section space)
