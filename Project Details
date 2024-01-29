@@ -1,52 +1,33 @@
 Project Details
 The first order of business is to meet with City officials and debrief on the current security posture of the organization. This will clearly define the scope of our EDR solution. During this we will gather any existing documentation available and create topology maps to fully understand the overall network structure. We will also collaborate with key personnel to define which assets and components will need to be included. 
 
-Outline Security Posture & Assessing Threat Categories
+Outlining Security Posture & Assessing Threat Categories
 Once City officials have outlined their posture, the system will be assessed via vulnerability scanning to establish what vulnerabilities can be mitigated with the EDR solution and what vulnerabilities need to be addressed outside the EDR solution. 
-Once these vulnerabilities have been categorized, the EDR solution will be implemented alongside an employee training program that educates end-device users on the role they play securing the networks that they use. Vulnerabilities not resolved with the EDR solution will be addressed to City officials to clarify responsibilities and scope in order to further strengthen the security posture of the City. 
+
+After these vulnerabilities have been categorized, the EDR solution will be implemented alongside an employee training program that educates end-device users on the role they play securing the networks that they use. Vulnerabilities not resolved with the EDR solution will be addressed to City officials to clarify responsibilities and scope in order to further strengthen the security posture of the City. 
 
 Implementing EDR/MDR Solution
 After implementation, the EDR solution will develop its managed service by first developing the baseline of normal network behavior for end-devices, systems, and cloud applications. Telemetry from this data will be bundled into a dashboard that will leverage security platforms already in place in City infrastructure, creating a real-time analytics dashboard that can be accessed by City security officials and planners.
+Offensive Security Measures to Enhance Network Defense
 
-Offensive Security Measures To Enhance Network Defense
-Once all known vulnerabilities in the system architecture have been addressed and resolved via EDR or City security officials, our firm will begin focusing on developing a periodic penetration testing framework. Cyberquack’s in-house Red Team specializes in offensive security testing enterprise-level networks, and have a multitude of purpose-built tools that will continue to test the attack surface of the City of New Westminster’s IT networks. With regular meetings and reporting, this value-added service has the potential to stop threat actors and inform decision makers of priority concerns.
+Cyberquack’s in-house Red Team specializes in offensive security testing enterprise-level networks and have a multitude of purpose-built tools that will continue to test the attack surface of the City of New Westminster’s networks. With regular meetings and reporting, this value-added service has the potential to stop threat actors and inform decision makers of priority concerns.
 
-Defining Next-Generation EDR Technology & Proactive Maintenance
-Using Crowdstrike’s latest EDR innovation, the City of New Westminster can rest assured their networks have a guardian angel always watching over them. Crowdstrike’s Cyber Threat Intelligence Integration powers the EDR with real-time updates on modern tactics, techniques, and procedures (TTPs), and can identify the stealthiest of attackers. This next-generation EDR creates something like a TV’s DVR on every network endpoint. Using the Falcon platform, this recorded intelligence can be accessed from and calculated in the cloud, allowing ultimate visibility from anywhere in the world.
-To complement the EDR solution, a management team of highly skilled network engineers, security analysts, and system administrators take security to the next level. Through our highly skilled management team, the EDR solution becomes an MDR solution that not only detects, but proactively hunts, investigates, and responds to emerging or advanced threats. Our in-house security team will work closely with our Red Team pentesters to develop a threat database based on behavior, EDR artificial intelligence (AI) insights, and cutting-edge industry insider knowledge.
+Defining Next-Generation EDR Technology & Proactive Security
+Using Crowdstrike’s latest EDR innovation, the City of New Westminster can rest assured their networks have a guardian angel always watching over them. Crowdstrike’s Cyber Threat Intelligence Integration powers the EDR with real-time updates on modern tactics, techniques, and procedures (TTPs), and can identify the stealthiest of attackers, forwarding reports to those that need to know.
+
+Project Team Breakdown
+To complement the EDR solution, a management team of highly skilled network engineers, security analysts, and system administrators take security to the next level. Through our highly skilled management team, the EDR solution becomes an MDR solution that not only detects, but proactively hunts, investigates, and responds to emerging or advanced threats. 
 
 EDR Implementation Project Members
 Developing this project will require two teams of highly qualified security specialists. The first team will deal with EDR implementation and development:
-
 Michael Rodriguez (Incident Response Manager – Lead) – 10+ years managing defensive and offensive security teams. GCIH, CISM, CCSP
-
-Samantha Lee (EDR Specialist ) – 7+ years’ experience in EDR development for municipal governments. CISSP, CompTIA Security+, Certified Endpoint Security Specialist
-
+Samantha Lee (EDR Specialist) – 7+ years’ experience in EDR development for municipal governments. CISSP, CompTIA Security+, Certified Endpoint Security Specialist
 Rachel Green (Technical Analyst) – 4 years’ experience assessing vulnerabilities in a Tier 2 position for enterprise. 2 years’ experience Tier 3 SOC analyst. Certified Vulnerability Assessor (CVA), CompTIA Sec+, Net+, CCNA
-
 Daniel Kim (Technical Analyst) – 3 years’ experience as Tier 1 security operations center (SOC) analyst. CompTIA Sec+, Net+, Pentest+
+
 Penetration Testing & Security Assessment Team (Red Team)
-
 For the continued vulnerability and penetration testing service, our Red Team includes:
-
 Isabella Martinez (Certified Ethical Hacker – Lead) – 5 years’ experience as a network security manager for Fortune 500s, 12 years’ experience in offensive penetration testing with a focus on government and non-profit organizations. CCNP, CCSP, CISSP, CEH
-
 Olivia Wilde (Compliance and Risk Manager) – 10 years’ experience mitigating risks and ensuring compliance with ISO27001:2002 in the context of government infrastructure. Certified Risk and Information Systems Control (CRISC), Certified Compliance & Ethics Professional (CCEP)
-
-Lucas Brown (Security Engineer) – 5 years’ experience as a network security engineer. CCNP, CompTIA Sec+, Net+, Pentest+
-
+Lucas Brown (Security Engineer) – 5 years’ experience as a network security engineer. CCNA, CCNP, CompTIA Sec+, Net+, Pentest+
 David Smith (Security Engineer) – 6 years’ experience in offensive penetration testing with a focus on banking and Fortune 500 contexts. Offensive Security Certified Professional (OSCP), CCNA, CCNP, CompTIA Sec+, Net+, & Pentest+
-
-Reporting Strategies
-We will provide regular status reports and updates on the progress of the MDR solution that will include key milestones achieved and tasks that have been completed. We will also define and track key performance indicators from the Crowdstrike EDR platform, Falcon Cloud Integration, and existing City infrastructure. 
-These reports will be bundled into a weekly status update which outlines the tasks, threats, and solutions discovered. The data from these reports can also be accessed in real-time via a custom online dashboard developed by Cyberquack.
-
-The main Key Performance Indicators (KPI) assessed in these reports include, but are not limited to:
-o	Number of security incidents detected and resolved
-o	Average Time to detect and respond to any incidents
-o	System uptime and availability
-o	Unidentified end-devices visible on the network
-o	IoT devices visible on the network
-o	Risk Assessment as per our in-house Compliance and Risk Management
-
-Our Red Team will provide additional documentation after completing regular vulnerability scans and penetration tests on City network infrastructure. This documentation will be used to supplement the MDR solution to better suit the unique requirements of municipal IT networks.
