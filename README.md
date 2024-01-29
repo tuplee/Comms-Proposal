@@ -18,7 +18,7 @@ Aloha
   
   TO DO:
   * /To be discussed Jan30 in class/ Review Project Details section with James - paragraphs are too long? references are right?
-  * Develop Schedule Section from Project Details section
+  *  /tuplee has started this/ Develop Schedule Section from Project Details section
   * Use Scheduling Section to build Gantt Chart
   * Develop budget outline (see LearningHub Week 5 Proposal-schedules-budgets.ppt)
   * Develop budget breakdown (see LearningHub Week 2 Proposal-Erfan-Nav & INCS Example for two diff approaches)
