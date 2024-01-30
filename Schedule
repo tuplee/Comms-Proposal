@@ -1,6 +1,7 @@
 PHASE 1
 1) Debrief with City officials to understand current security posture and define scope of responsibility
 2) Develop network topology diagrams (what other planning materials can be developed at this stage?)
+3) Create an inventory of the city's current IT infrastructure and determine important endpoints, network devices, and other assets
 
 PHASE 2
 1) Active vulnerability scanning within scope
@@ -20,3 +21,5 @@ PHASE 5 (Concurrent with PHASE 3&4)
 
 PHASE 6
 1) Red-Teaming phase (what are the main steps involved here, don't let this phase take up the majority of the schedule section space)
+2) Perform penetration testing and vulnerability scans for continual improvement
+3) Debrief penetration testing results with City personnel to guide and assist with security improvements
