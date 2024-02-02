@@ -1,0 +1,81 @@
+Budget
+
+Phase 1: Security Posture Assessment
+
+-	Personnel:
+	o	EDR Specialist $6000
+	o	Security Engineer $5000
+	o	Compliance and Risk Manager $5000
+
+-	Equipment:
+	o	Network Monitoring Taps $799
+
+-	Software:
+	o	Crowdstrike $925 annually
+
+
+Phase 2: Vulnerability Scanning and Documentation
+
+-	Personnel:
+	o	Pentesting Team:
+			Lead Ethical Hacker $8000
+			Security Engineer $5000
+			Security Engineer $5000
+
+-	Equipment:
+	o	Vulnerability Scanning Tools $459
+
+Phase 3: EDR Implementation
+
+-	Personnel:
+	o	Incident Response Manager $13000
+	o	EDR Specialist $10000
+	o	Technical Analyst $5000
+	o	Technical Analyst $5000
+
+-	Equipment:
+
+-	Software:
+ 
+Phase 4: Dashboard for EDR telemetry
+
+-	Personnel:
+	o	EDR Specialist $6000
+
+-	Equipment:
+	o	Dashboard Hosting Costs $99
+
+-	Software: 
+	o	CyberQuack Dashboard $299
+
+Phase 5: Addressing Unsolved Vulnerabilities
+
+-	Personnel:
+	o	Lead Ethical Hacker $4000
+	o	Compliance and Risk Manager $4000 
+
+Phase 6: Penetration Testing 
+
+-	Personnel:
+	o	Pentesting Team:
+			Lead Ethical Hacker $12000
+			Compliance and Risk Manager $10000
+			Security Engineer $10000
+			Security Engineer $5000
+
+-	Equipment:
+	o	Vulnerability Scanning Devices $399
+
+-	Software:
+	o	CyberQuack Pentesting Tools $399
+ 
+
+Phase 7: Ongoing monitoring
+-	Personnel: 
+	o	Incident Response Manager $12000
+	o	Technical Analyst $5000
+	o	Technical Analyst $5000
+
+-	Equipment:
+	o	SOC Upkeep $299
+
