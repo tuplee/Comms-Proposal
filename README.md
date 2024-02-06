@@ -23,9 +23,8 @@ Aloha
   * /nootnoot/ Build Budget Section
   * Develop ROI Section
   * Develop Exec Summary Section
-  * Develop Conclusion/Recommendation
-  * /tuplee/ Develop Letter of Transmittal
-
+  * /tuplee/ Develop Conclusion/Recommendation
+    
     Don't forget to clean up! Anyone is welcome to edit this file.
 
 Aloha
