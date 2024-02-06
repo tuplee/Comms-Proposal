@@ -17,16 +17,14 @@ Aloha
   https://www.mybib.com/tools/ieee-citation-generator
   
   TO DO:
-  * /To be discussed Jan30 in class/ Review Project Details section with James - paragraphs are too long? references are right?
-  * Expand on scheduling skeleton and develop full Schedule Section
-  * Use Scheduling Section to build Gantt Chart
-  * Develop budget outline (see LearningHub Week 5 Proposal-schedules-budgets.ppt)
-  * Develop budget breakdown (see LearningHub Week 2 Proposal-Erfan-Nav & INCS Example for two diff approaches)
-  * Build Budget Section
+  */ DALLAS Expand on scheduling skeleton and develop full Schedule Section
+  */ DALLAS Use Scheduling Section to build Gantt Chart
+  */ nootnoot Develop budget section (see LearningHub Week 2 Proposal-Erfan-Nav & INCS Example for two diff approaches)
+  */ nootnoot Build Budget Section
   * Develop ROI Section
-  * Develop Summary Section
+  * Develop Exec Summary Section
   * Develop Conclusion/Recommendation
-  * Develop Letter of Transmittal
+  */ tuplee Develop Letter of Transmittal
 
     Don't forget to clean up! Anyone is welcome to edit this file.
 
