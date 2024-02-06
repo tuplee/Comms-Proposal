@@ -17,14 +17,14 @@ Aloha
   https://www.mybib.com/tools/ieee-citation-generator
   
   TO DO:
-  */ DALLAS Expand on scheduling skeleton and develop full Schedule Section
-  */ DALLAS Use Scheduling Section to build Gantt Chart
-  */ nootnoot Develop budget section (see LearningHub Week 2 Proposal-Erfan-Nav & INCS Example for two diff approaches)
-  */ nootnoot Build Budget Section
+  */ DALLAS/ Expand on scheduling skeleton and develop full Schedule Section
+  */ DALLAS/ Use Scheduling Section to build Gantt Chart
+  */ nootnoot/ Develop budget section (see LearningHub Week 2 Proposal-Erfan-Nav & INCS Example for two diff approaches)
+  */ nootnoot/ Build Budget Section
   * Develop ROI Section
   * Develop Exec Summary Section
   * Develop Conclusion/Recommendation
-  */ tuplee Develop Letter of Transmittal
+  */ tuplee/ Develop Letter of Transmittal
 
     Don't forget to clean up! Anyone is welcome to edit this file.
 
