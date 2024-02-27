@@ -16,11 +16,8 @@ Aloha
   Currently using this app for citations:
   https://www.mybib.com/tools/ieee-citation-generator
   
-  TO DO:
-  * /DALLAS/ Expand on scheduling skeleton and develop full Schedule Section
-  * /DALLAS/ Use Scheduling Section to build Gantt Chart
-  * Develop ROI Section
-    
-    Don't forget to clean up! Anyone is welcome to edit this file.
 
-Aloha
+    
+PROJECT COMPLETE
+
+Mahalo and Aloha
